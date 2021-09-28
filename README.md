@@ -1,5 +1,5 @@
 # ProjectPGDS 
-#Abstarct Image recommender system 
+# Abstarct Image recommender system 
 Retail Analytics space is evolving everyday towards providing a better customer experience every day. Image based product search is one such area of work. 
 Similarly, this project explores the idea in the online eye frames product space.The project is about comparison of image features 
 and selecting the top 10 similar images to a given eye frame image.
